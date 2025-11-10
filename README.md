@@ -88,4 +88,4 @@ The goal is to execute a series of queries to retrieve, filter, and manipulate d
 ## 🛠️ Installation  
 - Clone the repository:  
 ```bash
-git clone https://github.com/Viid21/S1_10_SQL_Producto_Fabricante.git
+https://github.com/Viid21/S2_02_MySQL_Queries.git
