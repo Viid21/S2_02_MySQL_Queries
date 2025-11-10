@@ -1,5 +1,6 @@
 # 🧑‍💻 Task S2.02. SQL Queries – Products & Manufacturers  
 **Author:** David Rey  
+**Corrected by:** Luriguso ([luriguso](https://github.com/Viid21/S2_02_MySQL_Queries/issues/1))
 
 ## 📄 Description  
 This project focuses on practicing **SQL queries** using two related tables:  
